@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Proprietary Mathematical Models & Calibration Pipeline
+src/
+
+# Raw Datasets & Databases
+data/
+
+# OS & Editor Metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
