@@ -33,8 +33,7 @@ This calibration is distributed as a packaged Frostbite archive (`.fifamod`). It
 3. Select **Import Mod(s)** and choose `PL_Sim_Realism.fifamod`.
 4. Enable the mod in your active profile.
 5. **Load Order Priority (Critical):** Move `PL_Sim_Realism` to the **very bottom** of your active applied mod list (highest numerical index). This ensures its simulation equations override larger overhaul packages (such as KIARIKA or Anth James gameplay mods) that may contain stock simulation files.
-6. **Cache Purge (Recommended):** If updating or resolving priority conflicts, delete the `ModData` folder inside your game install directory (`...\EA SPORTS FC\ModData`) prior to launch. The manager will regenerate a clean merged cache.
-7. Click **Launch** via FIFA Mod Manager.
+6. Click **Launch** via FIFA Mod Manager.
 
 ---
 
